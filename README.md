@@ -1,4 +1,4 @@
-# Indian-pharma-geopolitical-risk-analysis-Copy
+# Indian-pharma-geopolitical-risk-analysis-
 Financial risk analysis of the Red Sea shipping disruption and its impact on six listed Indian pharmaceutical companies. Copy description
 # Geopolitical Risk and the Indian Pharmaceutical Industry
 ### A Financial Risk Analysis of the Red Sea Shipping Disruption
